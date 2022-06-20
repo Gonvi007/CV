@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serift;
+}
+
+header {
+    background-color: #3949ab; 
+    color: white; 
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    width:600px; 
+    font-weight: bold;
+}
+p {
+    display: inline-block;
+    width:400px;
+}
+.sobremi {
+    background-color: pink; 
+    text-align: center;
+}
+.seccion1 {
+    width: 960px; 
+    height:200px; 
+    margin-right:auto; 
+    margin-left:auto;
+}
+.educacion {
+    display:inline-block; 
+    width:50%; 
+    vertical-align: top;
+}
+h3 {
+    font-size: 36px; 
+    font-weight: 700;
+}
+dt {
+    font-size:22px;
+    text-transform:uppercase;
+    margin-bottom:12px; 
+    margin-top:36px;
+}
+.imagen {
+    display:inline-block; 
+    width:30%; 
+    margin-top: 20px;
+}
+.Experiencia {
+    margin-top: 70px;
+}
+.certificados {
+    margin-top:70px;
+}
+.otros {
+    margin-top:70px;
+}
